@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "169882147569",
+    "project_id": "ifood-app-b3332",
+    "storage_bucket": "ifood-app-b3332.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169882147569:android:ecd1f974a42b1fcb3aa750",
+        "android_client_info": {
+          "package_name": "com.shadi.sellersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169882147569-8abqd54a36dh16jnjhnr9u8o9so7tbou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3mFQaUm8s_w1h9s8Y6KSYbWMDH3Fu6DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169882147569-8abqd54a36dh16jnjhnr9u8o9so7tbou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
